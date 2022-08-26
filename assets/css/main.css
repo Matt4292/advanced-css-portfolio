@@ -41,7 +41,7 @@ a {
 
 .name {
   font-size: 4vmax;
-  margin-left: 1%;
+  padding-right: 5%;
   margin-bottom: 5%;
   text-align: end;
 }
@@ -49,6 +49,7 @@ a {
 .nav {
   width: 98%;
   position: absolute;
+  padding-left: 4%;
   bottom: 4%;
 }
 
@@ -62,7 +63,6 @@ a {
 }
 
 /* Body styling */
-
 h2 {
   font-size: 32px;
   padding-bottom: 3%;
